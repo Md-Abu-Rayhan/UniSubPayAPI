@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <Nullable>enable</Nullable>
+    
+    <NoWarn>CS8618</NoWarn>
+  </PropertyGroup>
+</Project>
